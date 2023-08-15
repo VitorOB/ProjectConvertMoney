@@ -112,7 +112,7 @@ section {
   line-height: 18px; /* 128.571% */
 }
 
-.currencyValue {
+.currencyValue, .currencyValue-to-convert {
   color: #555;
   font-size: 20px;
   font-weight: 700;
